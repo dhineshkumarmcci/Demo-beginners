@@ -1,2 +1,6 @@
 # Demo-beginners
-This repository is created to give a demo on usage of GitHub
+This repository is created to give a demo on usage of GitHub.
+
+Added an application to demo repo.
+
+
